@@ -1,11 +1,9 @@
-<h1 align="center">Hello 😶, I'm Abdullahi Abdi</h1>
+<h1 align="center">Hello 😶, I'm Abdullahi</h1>
 <h3 align="center">Am Passsionate Compsci Student</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mulla759" alt="mulla759" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mulla_cool" target="blank"><img src="https://img.shields.io/twitter/follow/mulla_cool?logo=twitter&style=for-the-badge" alt="mulla_cool" /></a> </p>
 
-- 🔭 I’m currently working on [Portofolio Website](http://mulla.works/)
+- 🔭 I’m currently working on [Portofolio Website](mulla.works)
 
 - 🌱 I’m currently learning **DSA,Java**
 
@@ -24,5 +22,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mulla759&show_icons=true&locale=en&layout=compact" alt="mulla759" /></p>
