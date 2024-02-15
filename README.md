@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I am the biggest movie head you will ever meet!**
 
+- 📀 My Letterboxd Account (to see my movie taste😶) [Letterboxd](https://letterboxd.com/Mulla759/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mulla_cool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mulla_cool" height="30" width="40" /></a>
