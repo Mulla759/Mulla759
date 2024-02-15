@@ -1,5 +1,5 @@
-<h1 align="center">Hello 😶, I'm Abdullahi</h1>
-<h3 align="center">Am Passsionate Compsci Student</h3>
+<h1 align="center">Hello, I'm Abdullahi 😶,</h1>
+<h3 align="center">Am noob computer science student!!</h3>
 
 <p align="left"> <a href="https://twitter.com/mulla_cool" target="blank"><img src="https://img.shields.io/twitter/follow/mulla_cool?logo=twitter&style=for-the-badge" alt="mulla_cool" /></a> </p>
 
