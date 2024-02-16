@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mulla_cool" target="blank"><img src="https://img.shields.io/twitter/follow/mulla_cool?logo=twitter&style=for-the-badge" alt="mulla_cool" /></a> </p>
 
-- 🔭 I’m currently working on [Portofolio Website](mulla.works)
+- 🔭 I’m currently working on [Portofolio Website](http://mulla.works/)
 
 - 🌱 I’m currently learning **DSA,Java**
 
