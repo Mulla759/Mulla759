@@ -34,5 +34,5 @@
   <li>Python</li>
   <li>OCaml</li>
   <li>HTML/CSS</li>
-  <li>JavaScript (basic)</li>
+  <li>JavaScript</li>
 </ul>
