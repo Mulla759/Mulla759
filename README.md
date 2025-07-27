@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Abdullahi Abdi!</h1>
-<h3 align="center">Aspiring SWE/ML Engineer</h3>
+<h3 align="center">Aspiring SWE/Product Manager</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdull-abdi5/" target="blank">
