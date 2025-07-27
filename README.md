@@ -7,10 +7,10 @@
   </a>
 </p>
 
-- 🔭 Aspiring SWE/ML Engineer sophomore Student at UMNTC  
-- 🌱 I’m currently learning **OCaml, Scikit-learn library**  
+- 🔭 Aspiring SWE/ML Engineer Junior Student at UMNTC  
+- 🌱 I’m currently learning **OCaml, Scikit-learn library,**  
 - 👨‍💻 Currently working on: My portfolio website & Letterboxd Recommendation Engine  
-- 📫 How to reach me: **Abdu.ullahabdi@gmail.com**  
+- 📫 How to reach me: **Abdullahi.aabdii@gmail.com**  
 - ⚡ Fun fact: **I am the biggest movie head you will ever meet!**  
 - 📀 My Letterboxd Account (to see my movie taste 😶): [Letterboxd](https://letterboxd.com/Mulla759/)
 
