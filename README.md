@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 Aspiring SWE/ML Engineer Junior Student at UMNTC  
+- 🔭 Aspiring SWE Currently Junior Student at UMNTC  
 - 🌱 I’m currently learning **OCaml, Scikit-learn library,React, Linux**  
 - 👨‍💻 Currently working on: My portfolio website & Letterboxd Recommendation Engine, RAG Finance Chat-Bot  
 - 📫 How to reach me: **Abdullahi.aabdii@gmail.com**  
