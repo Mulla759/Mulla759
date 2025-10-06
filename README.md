@@ -9,7 +9,7 @@
 
 - 🔭 Aspiring SWE Currently Junior Student at UMNTC  
 - 🌱 I’m currently learning **OCaml, Scikit-learn library,React, Linux**  
-- 👨‍💻 Currently working on: My portfolio website & Letterboxd Recommendation Engine, RAG Finance Chat-Bot  
+- 👨‍💻 Currently working on: My portfolio website & Letterboxd Recommendation Engine, RAG Finance Chat-Bot, Fullstack poster,filmpicture social media site.
 - 📫 How to reach me: **Abdullahi.aabdii@gmail.com**  
 - ⚡ Fun fact: **I am the biggest movie head you will ever meet!**  
 - 📀 My Letterboxd Account (to see my movie taste 😶): [Letterboxd](https://letterboxd.com/Mulla759/)
