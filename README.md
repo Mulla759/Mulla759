@@ -1,57 +1,53 @@
 <h1 align="center">Abdullahi Abdi</h1>
 
 <p align="center">
-  Building AI, data, and full-stack products with a product-minded lens<br/>
-  CS + Economics @ University of Minnesota Twin Cities
+  Passionate product builder focused on AI, data, and full-stack apps
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdull-abdi5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abdullahi.aabdii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Mulla759">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Minneapolis%2C%20MN-2E7D32?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Expected%20Grad-May%202027-555555?style=for-the-badge" alt="Expected Graduation" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20%7C%20Full%20Stack-6C63FF?style=for-the-badge" alt="Focus" />
+  CS + Economics @ University of Minnesota Twin Cities
 </p>
 
----
+## About
 
-## Overview
+I'm a junior at the University of Minnesota Twin Cities studying **Computer Science and Economics**, interested in building products that sit at the intersection of **software, AI, and user experience**.
 
-I’m a CS and Econ student at the **University of Minnesota Twin Cities** with focus in **product-minded tools & software development**.
+Right now, I’m focused on creating tools that are practical, thoughtful, and genuinely useful 
 
-My recent work includes **AI-powered research tools**, **recommendation systems**, **recruiter discovery products**, and **community/campus platforms** built around clear user needs.
+## Projects
 
-## Featured Projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Rolodex](https://github.com/Mulla759/rolodex) | Recruiter discovery tool for CS students with searchable recruiter profiles, verified data, and AI-generated outreach. | Next.js, TypeScript, Neon, Postgres/pgvector, Drizzle, Vercel AI SDK |
-| [MLTGENAI](https://github.com/Mulla759/MLTGENAI) | RAG-powered financial analyst chatbot designed to make SEC filing research faster and more accessible. | Python, RAG, AWS Lambda, API Gateway, S3, Docker |
-| [The Lo](https://github.com/Mulla759/the-lo-2) | Real-time campus event map for discovering what is happening nearby at the University of Minnesota. | React Native, TypeScript, Go, PostgreSQL, PostGIS |
-| [MuslimConnect](https://github.com/Mulla759/MuslimconnectV1) | Campus-community platform for Muslim students to discover organizations, events, and shared resources in one place. | FastAPI, Python, SQLite, HTML/CSS/JS |
+### [Promise.Ai](https://joinpromise.vercel.app/)
+An AI Accountability App (currently **working** on it)
 
-## Technical Toolkit
+### [MLTGENAI](https://github.com/Mulla759/MLTGENAI)
+A RAG-powered finance assistant built to make SEC filing research faster and easier to navigate.
 
-**Core:** Python, TypeScript/JavaScript, SQL  
-**Also used:** Java, C++, Go, OCaml  
-**Frameworks & Tools:** Next.js, React, FastAPI, PostgreSQL, Docker, LangChain, scikit-learn, Pandas, GitHub Actions
+### [The Lo](https://github.com/Mulla759/the-lo-2)
+A real-time campus event map for discovering what’s happening nearby at the University of Minnesota.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,go,postgres,docker,git" alt="Tech stack icons" />
-</p>
+### [MuslimConnect](https://github.com/Mulla759/MuslimconnectV1)
+A platform for helping students discover organizations, events, and community resources in one place.
 
-## Current Focus
+### [Oddysey](https://odysrec.com/) 
+An AI movie recommendation platform built around personalization, ranking, and fast recommendation delivery.
 
-- Building practical AI products with strong real-world use cases
-- Strengthening my depth in machine learning, systems, and full-stack development
-- Creating software that blends solid engineering with thoughtful product decisions
+## Stack
+
+**Languages**  
+Python · JavaScript · TypeScript · SQL · Java · C++ · OCaml
+
+**Frameworks & Tools**  
+React · Next.js · FastAPI · Flask · LangChain · scikit-learn · Pandas · PostgreSQL · SQLite · Docker
