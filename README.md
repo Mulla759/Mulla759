@@ -1,53 +1,29 @@
 <h1 align="center">Abdullahi Abdi</h1>
+<p align="center">passionate product builder focused on AI, data, and full-stack apps</p>
+<p align="center">CS + Economics @ University of Minnesota Twin Cities</p>
 
 <p align="center">
-  Passionate product builder focused on AI, data, and full-stack apps
+  <a href="https://www.linkedin.com/in/abdull-abdi5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Abdullahi.aabdii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdull-abdi5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdullahi.aabdii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Mulla759">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  CS + Economics @ University of Minnesota Twin Cities
-</p>
-
-## About
-
-I'm a junior at the University of Minnesota Twin Cities studying **Computer Science and Economics**, interested in building products that sit at the intersection of **software, AI, and user experience**.
-
-Right now, I’m focused on creating tools that are practical, thoughtful, and genuinely useful 
 
 ## Projects
-
-
-### [Promise.Ai](https://joinpromise.vercel.app/)
-An AI Accountability App (currently **working** on it)
-
-### [MLTGENAI](https://github.com/Mulla759/MLTGENAI)
-A RAG-powered finance assistant built to make SEC filing research faster and easier to navigate.
-
-### [The Lo](https://github.com/Mulla759/the-lo-2)
-A real-time campus event map for discovering what’s happening nearby at the University of Minnesota.
-
-### [MuslimConnect](https://github.com/Mulla759/MuslimconnectV1)
-A platform for helping students discover organizations, events, and community resources in one place.
-
-### [Oddysey](https://odysrec.com/) 
-An AI movie recommendation platform built around personalization, ranking, and fast recommendation delivery.
+- **Promise.Ai** - An AI Accountability App 
+- **The Lo** — real-time campus event map
+- **MuslimConnect** — student community platform
+- **Odyssey** — AI movie recommendation platform
 
 ## Stack
-
-**Languages**  
-Python · JavaScript · TypeScript · SQL · Java · C++ · OCaml
-
-**Frameworks & Tools**  
-React · Next.js · FastAPI · Flask · LangChain · scikit-learn · Pandas · PostgreSQL · SQLite · Docker
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![OCaml](https://img.shields.io/badge/OCaml-%23E98407?style=flat&logo=ocaml&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed?style=flat&logo=docker&logoColor=white)
