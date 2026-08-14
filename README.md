@@ -28,7 +28,7 @@
 
 ## About
 
-I'm Abdullahi Abdi — an **Aspiring AI Product Manager** and full-stack builder studying Computer Science & Economics at the University of Minnesota. I turn user problems into shipped AI products: **LLM and AI agents, RAG systems, machine learning, and on-device inference**, grounded in user research and real metrics.
+I'm Abdullahi Abdi, an **Aspiring AI Product Manager** and full-stack builder studying Computer Science & Economics at the University of Minnesota. I turn user problems into shipped AI products: **LLM and AI agents, RAG systems, machine learning, and on-device inference**, grounded in user research and real metrics.
 
 - **Focus:** AI/LLM product management and strategy, agentic systems, evaluation design, and 0→1 builds
 - **Open to:** AI Product Manager and Product Manager roles, internships, and AI/LLM collaborations
@@ -37,6 +37,8 @@ I'm Abdullahi Abdi — an **Aspiring AI Product Manager** and full-stack builder
 ---
 
 ## Projects
+
+**WunderBar (an agentic mock-interview platform) Work in progress**
 
 **Promise.Ai — On-device AI accountability app**
 A private companion that talks with you to set goals, send reminders, and track streaks — Gemma running fully on-device (WebAssembly) for 100% offline, zero-egress privacy.
